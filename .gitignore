@@ -1,0 +1,6 @@
+dockerfile
+tests/*
+scripts/*
+app/db/*
+.venv
+.env
